@@ -145,13 +145,11 @@ var UIController = (function () {
 
     num = Math.abs(num);
     num = num.toFixed(2);
-    console.log(num);
+    
 
     numSplit = num.split(".");
 
     int = numSplit[0];
-
-    console.log(int.length);
 
     if (int.length > 3) {
       int = int.substr(0, int.length - 3) + "," + int.substr(int.length - 3, 3);
@@ -240,7 +238,6 @@ var UIController = (function () {
       var fields = document.querySelectorAll(DOMstrings.expensesPerLabel);
 
       nodeListForEach(fields, function (current, index) {
-        console.log(percentages[index]);
         if (percentages[index] > 0) {
           current.textContent = percentages[index] + "%";
         } else {
