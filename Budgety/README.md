@@ -9,3 +9,7 @@
 
 ![step2A](https://user-images.githubusercontent.com/61885344/92996129-c82f1780-f511-11ea-8cd8-6ac611dbc6ba.png)
 
+# ARCHITECTURE STEP 3
+![todoList3](https://user-images.githubusercontent.com/61885344/92996143-e85ed680-f511-11ea-811d-b96126f0e74f.png)
+
+![arc3](https://user-images.githubusercontent.com/61885344/92996144-ebf25d80-f511-11ea-9b8b-c9434aea5470.png)
