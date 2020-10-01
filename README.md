@@ -13,3 +13,6 @@ https://onurakkepenekk.github.io/Web-Development/Pig%20Game/index.html
 
 ## Budget
 https://onurakkepenekk.github.io/Web-Development/Budgety/index.html
+
+## Forkify
+https://onurakkepenekk.github.io/Web-Development/Forkify/dist/index.html
