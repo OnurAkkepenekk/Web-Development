@@ -195,6 +195,7 @@ elements.recipe.addEventListener("click", (e) => {
     // Add ingredients tp shopping list
     controlList();
   } else if (e.target.matches(".recipe__love,.recipe__love *")) {
+    
     //Like controller
     controlLike();
   }
