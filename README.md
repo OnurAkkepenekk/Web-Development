@@ -20,5 +20,8 @@ https://onurakkepenekk.github.io/Web-Development/Forkify/dist/index.html
 ## Edgeledger
 https://onurakkepenekk.github.io/Web-Development//Edgeledger%20Website/index.html
 
+## Newsgrid
+https://onurakkepenekk.github.io/Web-Development/Newsgrid/index.html
+
 ## Presentation
 https://onurakkepenekk.github.io/Web-Development//Presentation/index.html
