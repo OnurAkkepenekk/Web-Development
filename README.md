@@ -16,3 +16,9 @@ https://onurakkepenekk.github.io/Web-Development/Budgety/index.html
 
 ## Forkify
 https://onurakkepenekk.github.io/Web-Development/Forkify/dist/index.html
+
+## Edgeledger
+https://onurakkepenekk.github.io/Web-Development//Edgeledger%20Website/index.html
+
+## Presentation
+https://onurakkepenekk.github.io/Web-Development//Presentation/index.html
